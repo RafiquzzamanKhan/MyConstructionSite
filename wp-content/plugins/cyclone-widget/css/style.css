@@ -1,0 +1,124 @@
+/*Widget Title */
+
+h2.widget-title {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    margin-bottom: 20px !important;
+}
+
+/*Social Icons */
+
+.cyclone-widget a.fa {
+    background: #F5F5F5;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    text-align: center;
+    padding: 12px;
+    margin: 5px 6px 5px 0;
+    box-shadow: none;
+}
+
+.cyclone-widget a.fa:hover {
+    box-shadow: none;
+    background: #E0E0E0;
+    transition: all ease-in-out 0.3s;
+}
+
+.cyclone-widget a.fa:focus{
+    box-shadow: none;
+}
+
+/*Instagram widget*/
+
+section#cyclone_instagram_loaded_widget-2 {
+    padding: 40px 0;
+}
+
+.instagram_widget div {
+    display: inline-flex;
+    width: 33%;
+}
+
+.instagram_widget div img {
+    width: 100%;
+    transition: all 1s ease-in-out;
+}
+
+.instagram_widget div img:hover {
+    transform: scale(1.2) rotate(5deg);
+    transition: all 1s ease-in-out;
+}
+
+/*Widget Posts*/
+
+.cyclone-post-widget-wrapper .item-list {
+    display: inline-block;
+    width: 100%;
+    padding: 12px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+article.widget_post_thumnail {
+    display: inline-block;
+    width: 35%;
+    float: left;
+    padding-right: 15px;
+}
+
+article.widget_post_title {
+    display: inline-block;
+    width: 65%;
+    float: left;
+}
+
+article.no_thumbnail_post {
+    display: inline-block;
+    width: 100%;
+}
+
+.widget_post_title h5, .no_thumbnail_post h5{
+	font-weight: 500;
+}
+
+.widget_post_title a, .widget_post_title a:hover, .no_thumbnail_post a, .no_thumbnail_post a:hover {
+    box-shadow: none !important;
+}
+
+.widget_post_title a i.fa, .no_thumbnail_post a i.fa {
+    padding-right: 6px;
+}
+
+/*Widget Tabs*/
+
+ul.cyclone-tabs {
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 100%;
+}
+
+ul.cyclone-tabs li {
+    float: left;
+    padding: 0;
+    border: none;
+}
+
+ul.cyclone-tabs li a {
+    padding: 6px 15px;
+    display: inline-block;
+    font-size: 16px;
+}
+.lastest_content {
+    float: left;
+}
+
+.instagram_shortcode img {
+    width: 100%;
+    transition: all 1s ease-in-out;
+}
+
+.instagram_shortcode img:hover {
+    transform: scale(1.2) rotate(5deg);
+    transition: all 1s ease-in-out;
+}
