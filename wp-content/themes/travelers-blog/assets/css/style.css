@@ -897,7 +897,7 @@ header .navbar-default .navbar-nav > li > a:hover:after{display: none;}
 **************************/
 
 #about {
-  background: #242a33 url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/cta2/cta2-bg.jpg) no-repeat 50% 50%;
+  background: #242a33 url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/cta2/cta2-bg.jpg) no-repeat 50% 50%;
   background-size: cover;
   color: #fff;
   padding: 70px 0;
@@ -1036,7 +1036,7 @@ header .navbar-default .navbar-nav > li > a:hover:after{display: none;}
 **************************/
 
 .testi-inner {
-    background: #333333 url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/testimonial/bg.jpg) no-repeat 0 0;
+    background: #333333 url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/testimonial/bg.jpg) no-repeat 0 0;
     background-size: cover;
     padding: 70px 15px;
     color: #fff;
@@ -1070,7 +1070,7 @@ header .navbar-default .navbar-nav > li > a:hover:after{display: none;}
 **************************/
 
 #animated-number {
-  background: #132125 url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/animated-number/bg.jpg) no-repeat;
+  background: #132125 url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/animated-number/bg.jpg) no-repeat;
   background-size: cover;
   color: #fff;
   background-position: center;
@@ -1271,7 +1271,7 @@ header .navbar-default .navbar-nav > li > a:hover:after{display: none;}
 
 #get-in-touch {
   color: #fff;
-  background:#132125 url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/touch.jpg) no-repeat;
+  background:#132125 url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/touch.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1477,7 +1477,7 @@ input.form-control {
   } 
 
 .breadcrumb-wrapper {
-    background: #EDEDED url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/bread-bg.jpg);
+    background: #EDEDED url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/bread-bg.jpg);
     overflow: hidden;
     background-position: center;
     background-size: cover;
@@ -2882,7 +2882,7 @@ ul.about-list{
 }
 
 .about-skill{
-    background:url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/skill-bg.jpg);
+    background:url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/skill-bg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -3337,22 +3337,22 @@ ul.about-list{
 }
 
 .ch-img-1 { 
-    background-image: url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/01.jpg);
+    background-image: url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/01.jpg);
     background-size: 100%;
 }
 
 .ch-img-2 { 
-    background-image: url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/02.jpg);
+    background-image: url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/02.jpg);
     background-size: 100%;
 }
 
 .ch-img-3 { 
-    background-image: url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/04.jpg);
+    background-image: url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/04.jpg);
     background-size: 100%;
 }
 
 .ch-img-4 { 
-    background-image: url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/03.jpg);
+    background-image: url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/images/team/03.jpg);
     background-size: 100%;
 }
 
@@ -4296,7 +4296,7 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 
 .pricing--karma .pricing__item--featured .pricing__price::after {
-  background: url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/img/stamp.png);
+  background: url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/img/stamp.png);
   background-size: cover;
   content: '';
   position: absolute;
@@ -4476,7 +4476,7 @@ input.wpcf7-form-control.wpcf7-submit {
   font-weight: bold;
   font-size: 1.8em;
   padding: 0 0 0.5em;
-  background: url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/img/line.png) no-repeat 50% 100%;
+  background: url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/img/line.png) no-repeat 50% 100%;
 }
 
 .pricing--dawa .pricing__price {
@@ -4858,7 +4858,7 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 
 .bg-2 {
-  background: #333 url(/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/img/blackboard.jpg) no-repeat center center;
+  background: #333 url(http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/img/blackboard.jpg) no-repeat center center;
   background-size: cover;
   color: #fff;
 }

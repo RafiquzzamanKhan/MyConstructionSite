@@ -2870,8 +2870,8 @@ button.swiper-pagination-bullet {
 
 @font-face {
     font-family: "Ionicons";
-    src: url("/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.eot?v=2.0.0");
-    src: url("/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.eot?v=2.0.0#iefix") format("embedded-opentype"), url("/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.ttf?v=2.0.0") format("truetype"), url("/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.woff?v=2.0.0") format("woff"), url("/https://rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.svg?v=2.0.0#Ionicons") format("svg");
+    src: url("http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.eot?v=2.0.0");
+    src: url("http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.eot?v=2.0.0#iefix") format("embedded-opentype"), url("http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.ttf?v=2.0.0") format("truetype"), url("http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.woff?v=2.0.0") format("woff"), url("http://localhost/https:/rafiquzzamankhan.github.io/MyConstructionSite/wp-content/themes/travelers-blog/assets/fonts/ionicons28b528b5.svg?v=2.0.0#Ionicons") format("svg");
     font-weight: normal;
     font-style: normal
 }
